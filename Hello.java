@@ -4,7 +4,7 @@ public class Hello
 	{
 		for (int i=1;i<=10;i++)
 		{
-			System.out.println ("blah blah..."+i);
+			System.out.println ("test1..."+i);
 		}
 			
 	}
